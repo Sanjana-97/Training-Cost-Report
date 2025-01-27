@@ -11,19 +11,6 @@ To enable data-driven decisions by analyzing training data, highlighting cost me
 - **Power Query**: For data transformation and integration.
 - **DAX (Data Analysis Expressions)**: For calculated measures and insights.
 
-## Dashboard Highlights
-The project utilizes a structured data model integrating employee, department, training, and cost data. The dashboard provides the following insights:
-
-1. **Training Analysis**:
-   - Total Trainings Applied and Completed under each Department Head.
-   - Breakdown of Company-Sponsored (Marks >= 95) and Self-Sponsored Trainings.
-   - Training Applications categorized by Module.
-
-2. **Cost Analysis**:
-   - Total Salary Distribution by Department.
-   - Company-Sponsored Training Costs by Department.
-   - Training Costs and Participation segmented by Module.
-
 ### Dashboard Previews
 - **Training Status Dashboard**: Insights into training applications, completions, and sponsorship types.
   
@@ -38,8 +25,6 @@ The project utilizes a structured data model integrating employee, department, t
 - **Data Model**: Overview of relationships between tables.
   
 ![The_model](https://github.com/user-attachments/assets/fd872db2-ffb8-4330-acfb-e31d3edd502e)
-
-
 
 
 
